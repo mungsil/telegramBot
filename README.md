@@ -9,3 +9,4 @@
 ![image](https://github.com/mungsil/telegramBot/assets/107127451/0f2a393d-520f-4f2d-91d0-e6b9d1dc82e3)
 
 ### 채널에 메시지 보내기(30분 단위)
+![image](https://github.com/mungsil/telegramBot/assets/107127451/01d357c6-6a3d-4e8f-a1b2-634e5463c486)

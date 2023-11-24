@@ -23,7 +23,7 @@ def job():
     asyncio.create_task(send_message())
 
 async def main():
-    schedule.every(1).minutes.do(job)
+    schedule.every(30).minutes.do(job)
     while True:
         schedule.run_pending()
         await asyncio.sleep(1)
